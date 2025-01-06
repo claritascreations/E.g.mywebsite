@@ -207,7 +207,4 @@
             <h2>shellfish Necklace and bracelet</h2>
             <p>$6</p>
         </footer>
-      Follow us on Instagram</a> for more creations!</p>
-    </footer>
-</body>
-        </html>
+      Follow us on Instagram for more creations!
