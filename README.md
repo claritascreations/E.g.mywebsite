@@ -69,11 +69,11 @@
     </header>
     <main>
         <div class="product">
-            <alt="withe baby angel sculpture">
+            white baby angel sculpture
             <h2>withe baby angel sculpture</h2>
             <p>7$</p>
         </div>
-        <div class="product"> <alt="pen chain">
+        <div class="product"> pen chain
             <h2>pen chain</h2>
             <p>$1</p>
         </div>
